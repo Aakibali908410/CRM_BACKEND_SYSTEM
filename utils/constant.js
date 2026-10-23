@@ -1,0 +1,17 @@
+module.exports={
+    userTypes:{
+        customer:"CUSTOMER",
+        engineer:"ENGINEER",
+        admin:"ADMIN"
+    },
+    userStatuses:{
+        pending:"PENDING",
+        approved:"APPROVED",
+        blocked:"BLOCKED"
+    },
+    ticketStatues:{
+        open:"OPEN",
+        closed:"CLOSED",
+        blocked:"BLOCKED"
+    }
+}
